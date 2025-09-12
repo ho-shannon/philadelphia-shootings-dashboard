@@ -5,7 +5,7 @@ A redesign of a public safety dashboard to improve visual cohesion and storytell
 
 ## Final Dashboard Design
 
-https://assets/final-dashboard.png
+![Philadelphia Shootings Dashboard](assets/final-dashboard.png)
 
 *Final redesigned dashboard showcasing improved visual cohesion, strategic annotations, and consistent styling.*
 
