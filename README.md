@@ -22,7 +22,7 @@ A redesign of a public safety dashboard to improve visual cohesion and storytell
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MZpa4Uy8s3HQlZ-eSwsFhy378r6_BOdt?usp=sharing)
 *For best results, run this notebook in Google Colab. GitHub only displays static code.**
 
-[![View on GitHub](https://img.shields.io/badge/View_Code_on_GitHub-181717?logo=github)](https://github.com/ho-shannon/philadelphia-shootings-analysis)
+[![View on GitHub](https://img.shields.io/badge/View_Code_on_GitHub-181717?logo=github)](https://github.com/ho-shannon/philadelphia-shootings-dashboard)
 *Browse the repository structure and technical implementation.*
 
 ---
