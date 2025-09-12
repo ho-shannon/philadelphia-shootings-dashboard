@@ -30,7 +30,6 @@ A redesign of a public safety dashboard to improve visual cohesion and storytell
 ## Key Findings
 - **200% increase** in shootings from 2017-2021
 - **Spatial correlation** between shooting density and neighborhood demographics
-- **Seasonal patterns** in shooting incidents with summer peaks
 - **Most fatal wounds:** Multiple injuries, head, and chest wounds
 
 ## Tools Used
@@ -41,7 +40,6 @@ A redesign of a public safety dashboard to improve visual cohesion and storytell
 
 ## Data Sources
 All data is from public data sources:
-- **Shooting Incidents:** City of Philadelphia Open Data
-- **Neighborhood Demographics:** U.S. Census Data
-- **Geographic Boundaries:** Public GeoJSON repositories
-
+-   **Shooting Incidents:** OpenDataPhilly
+-   **Neighborhood Boundaries:** OpenDataPhilly
+-   **Demographic Data:** U.S. Census Bureau
