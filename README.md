@@ -32,6 +32,8 @@ A redesign of a public safety dashboard to improve visual cohesion and storytell
 - **Spatial correlation** between shooting density and neighborhood demographics
 - **Most fatal wounds:** Multiple injuries, head, and chest wounds
 
+---
+
 ## Tools Used
 - **Python** (Pandas, GeoPandas, Requests)
 - **Data Visualization** (Altair, Matplotlib)
