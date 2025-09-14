@@ -23,7 +23,6 @@ A redesign of a public safety dashboard to improve visual cohesion and storytell
 *For best results, run this notebook in Google Colab. GitHub only displays static code.**
 
 [![View on GitHub](https://img.shields.io/badge/View_Code_on_GitHub-181717?logo=github)](https://github.com/ho-shannon/philadelphia-shootings-dashboard)
-*Browse the repository structure and technical implementation.*
 
 ## Key Findings
 - **200% increase** in shootings from 2017-2021
